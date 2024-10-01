@@ -1,0 +1,7 @@
+.DS_Store
+.jupyter/
+.virtual_documents/
+old/
+python_intro/
+text_as_data/sotu_text/*
+text_as_data/data/*
