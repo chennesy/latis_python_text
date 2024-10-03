@@ -7,3 +7,5 @@ text_as_data/sotu_text/*
 text_as_data/data/*
 sotu_text/*
 */.ipynb_checkpoints/
+ai_text/data/*
+ai_text/.env
