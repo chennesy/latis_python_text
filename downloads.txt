@@ -1,0 +1,13 @@
+-- Vectors lesson data download --
+python -m spacy download en_core_web_md 
+
+-- Text as Data lesson downloads --
+nltk.download('stopwords')
+nltk.download('vader_lexicon')
+nltk.download('punkt_tab')
+
+-- Text as Data & Vectors data --
+sotu_kaggle
+
+-- ChatGPT lesson data --
+data/babel-briefings-v1-us.json
