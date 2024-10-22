@@ -9,3 +9,5 @@ sotu_text/*
 */.ipynb_checkpoints/
 ai_text/data/*
 ai_text/.env
+.ipynb_checkpoints/
+sotu_kaggle/*
