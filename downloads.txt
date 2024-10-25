@@ -19,7 +19,11 @@ nltk.download('vader_lexicon')
 nltk.download('punkt_tab')
 python -m spacy download en_core_web_md 
 
--- Text as Data & Vectors data --
+-- Text as Data & Vectors data (attached to email) --
 sotu_kaggle
+
+— Vectors data (in GH repo) —
+embeddings.pkl
+chunk_embeddings.pkl
 
 
