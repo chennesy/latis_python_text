@@ -1,13 +1,25 @@
--- Vectors lesson data download --
-python -m spacy download en_core_web_md 
+— Requirements —
 
--- Text as Data lesson downloads --
+nltk
+spacy
+plotly
+sklearn
+pandas
+matplotlib
+numpy-1.26.4
+sentence_transformers
+tqdm
+torch
+annoy
+rank_bm25
+
+-- Text as Data NLTK and Spacy data --
 nltk.download('stopwords')
 nltk.download('vader_lexicon')
 nltk.download('punkt_tab')
+python -m spacy download en_core_web_md 
 
 -- Text as Data & Vectors data --
 sotu_kaggle
 
--- ChatGPT lesson data --
-data/babel-briefings-v1-us.json
+
